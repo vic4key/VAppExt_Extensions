@@ -1,0 +1,11 @@
+dearpygui
+exif
+hachoir
+LnkParse3
+matplotlib
+numpy
+pydicom
+PyQt5
+PySide6
+PyYAML
+opencv-python

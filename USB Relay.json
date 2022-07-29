@@ -1,0 +1,5 @@
+{
+	"turn_on_on_load": true,
+	"turn_off_on_unload": false,
+	"test": "test"
+}
