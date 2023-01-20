@@ -54,7 +54,7 @@ class Window(VExt.UI.Window):
 
       file_ext = os.path.splitext(file_path)[1].lower()
       
-      if file_ext in [".txt", ".log"]:
+      if file_ext in [".txt", ".log", ".ini", ".md"]:
         with open(file_path, "rt") as f: lines = f.read().splitlines()
 
       elif file_ext in [".jpg"]:
