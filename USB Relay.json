@@ -1,5 +1,5 @@
 {
-	"turn_on_on_load": true,
-	"turn_off_on_unload": false,
+	"channels_turn_on_on_load":    [ 0, 1 ],
+	"channels_turn_off_on_unload": [ 0, 1 ],
 	"test": "test"
 }
